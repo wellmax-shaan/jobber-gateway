@@ -25,7 +25,8 @@
       { "transform": "typescript-transform-paths", "afterDeclarations": true },
     ],
     "paths": {
-      "@gateway/*": ["src/*"]
+      "@gateway/*": ["src/*"],
+       "@root/*": ["../1-gateway-service/*"]
     }
   }
 }

@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "@elastic/elasticsearch": "^9.5.1",
-    "@wellmax-shaan/jobber-shared": "^0.0.3",
+    "@wellmax-shaan/jobber-shared": "^0.0.5",
     "axios": "^1.21.1",
     "bcrypt": "^6.0.0",
     "compression": "^1.8.2",

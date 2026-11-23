@@ -28,3 +28,4 @@ class AuthMiddleware {
 }
 
 export const authMiddleware: AuthMiddleware = new AuthMiddleware();
+
